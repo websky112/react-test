@@ -1,0 +1,32 @@
+export const mockData = [
+  {
+    name: "Compound",
+    symbol: "COMP",
+    address: "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    decimal: 18,
+    balance: "300000000000000000000",
+    rate: 0.05,
+    stakedAmount: "148000000000000000000",
+    earnedAmount: "12000000000000000000",
+  },
+  {
+    name: "Aave",
+    symbol: "AAVE",
+    address: "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    decimal: 18,
+    balance: "2000000000000000000",
+    rate: 0.03,
+    stakedAmount: "900000000000000000",
+    earnedAmount: "100000000000000000",
+  },
+  {
+    name: "Curve",
+    symbol: "CURV",
+    address: "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    decimal: 18,
+    balance: "1200000000000000000000",
+    rate: 0.025,
+    stakedAmount: "12000000000000000000",
+    earnedAmount: "580000000000000000",
+  },
+];
